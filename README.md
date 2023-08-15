@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Camila</h1>
 <h3 align="center">A passionate Full-Stack developer from Argentina</h3>
 
-- 🔭 I’m currently working on [CineGO](https://cine-go-ten.vercel.app)
+- 🔭 I’m currently working on my portfolio
 
 - 🌱 I’m currently learning **React Native**
 
